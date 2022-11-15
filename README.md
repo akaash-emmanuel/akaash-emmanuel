@@ -7,3 +7,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaash-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+
+<head>
+  <title>Akaash</title>
+  <meta property="og:image" content="http://example.com/logo.jpg" />
+</head>
