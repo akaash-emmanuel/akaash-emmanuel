@@ -2,6 +2,23 @@
   <img src="https://github.com/akaash-emmanuel/akaash-emmanuel/blob/main/name.svg" alt="SKY EMMANUEL" />
 </h1>
 
+<h2 align="center"><!-- Social icons section -->
+<p align="center">
+  <a href="https://www.instagram.com/skyemmanuelr/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/Ib5xlox.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;
+  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="32px" alt="Spotify" title="Spotify" src="https://i.imgur.com/wSsVkMN.png"></a>
+</p> </h2> 
+
+
+
+
+
+
+
 
 I'm Akaash, a fresher at SNU and I have just begun my journey through the digital world. I have a lot to learn and a lot to be perfect at. My repositories contain codes for assignments and projects named according to language and level.
 
