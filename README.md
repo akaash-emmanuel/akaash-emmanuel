@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="https://i.imgur.com/edcTC1n.png"/></a>
+  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="https://i.imgur.com/0RbioFi.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src="https://i.imgur.com/pWvu9l8.jpeg"></a>
 
