@@ -8,7 +8,7 @@
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/skyemmanuelr/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/Ib5xlox.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
+  &#8274;&#8274;&#8274;&#8274;
   <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
