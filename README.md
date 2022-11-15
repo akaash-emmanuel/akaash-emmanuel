@@ -2,6 +2,9 @@
   <img src="https://github.com/akaash-emmanuel/akaash-emmanuel/blob/main/name.svg" alt="SKY EMMANUEL" />
 </h1>
 
+
+**computer science student, 18**
+
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
   <a href="https://www.instagram.com/skyemmanuelr/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/Ib5xlox.png"/></a>
@@ -30,7 +33,7 @@ I'm Akaash, a fresher at SNU and I have just begun my journey through the digita
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   
@@ -64,5 +67,8 @@ I'm Akaash, a fresher at SNU and I have just begun my journey through the digita
 
 
 
-### About Me
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sky's Activity Graph" src="https://graph-act.herokuapp.com/graph?username=akaash-emmanuel&theme=react-dark&line=ffffff&point=2fc5ec&color=ffffff&title_color=ffffff&area=true&custom_title=Activity%20Graph&hide_border=true" /></a>
+
 
