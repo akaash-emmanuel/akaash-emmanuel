@@ -2,6 +2,9 @@
   <img src="https://github.com/akaash-emmanuel/akaash-emmanuel/blob/main/name.svg" alt="SKY EMMANUEL" />
 </h1>
 
+
+I'm Akaash, a fresher at SNU and I have just begun my journey through the digital world. I have a lot to learn and a lot to be perfect at. My repositories contain codes for assignments and projects named according to language and level.
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -35,16 +38,14 @@
 <br />
 
 #
-
-
-
-
-
-
 ### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaash-emmanuel&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=akaash-emmanuel&theme=gruvbox&border_radius=4.5) -->
-
 #
+
+
+
+
+
+### About Me
+
