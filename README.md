@@ -8,7 +8,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaash-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
 
-<head>
-  <title>Akaash</title>
-  <meta property="og:image" content="http://example.com/logo.jpg" />
-</head>
+<img src="https://img.shields.io/badge/-Instagram-F3F7FA?logo=instagram.com&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
