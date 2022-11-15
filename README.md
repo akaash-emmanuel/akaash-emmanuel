@@ -7,15 +7,15 @@
 
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/skyemmanuelr/"><img width="30px" alt="Instagram" title="Instagram" src="https://imgur.com/gallery/Wee6kyS"/></a>
+  <a href="https://www.instagram.com/skyemmanuelr/"><img width="30px" alt="Instagram" title="Instagram" src="https://imgur.com/gallery/Wee6kyS.png"/></a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/TepG38l"/></a>
+  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/TepG38l.png"/></a>
   &#8287;&#8287;&#8287;
-  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="https://imgur.com/gallery/VFawCfA"/></a>
+  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="https://imgur.com/gallery/VFawCfA.png"/></a>
   &#8287;&#8287;&#8287;
-  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src=""></a>
+  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src="https://imgur.com/gallery/PMPzW.png"></a>
   
-   <a href="whatsapp to : 8197699433" alt ="Whatsapp" title="Whatsapp"><img width="30px" src="https://imgur.com/gallery/pk2dMhK" ></a>
+   <a href="whatsapp to : 8197699433" alt ="Whatsapp" title="Whatsapp"><img width="30px" src="https://imgur.com/gallery/pk2dMhK.png" ></a>
 </p> </h2> 
 
 
