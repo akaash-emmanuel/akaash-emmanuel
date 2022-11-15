@@ -7,16 +7,17 @@
 
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/skyemmanuelr/"><img width="30px" alt="Instagram" title="Instagram" src="https://imgur.com/gallery/Wee6kyS.png"/></a>
+  <a href="https://www.instagram.com/skyemmanuelr/"><img width="30px" alt="Instagram" title="Instagram" src="![instagram](https://user-images.githubusercontent.com/117347573/201921554-afb9b3a9-1828-48d6-be6a-e5571673889d.png)
+"/></a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/gallery/TepG38l.png"/></a>
+  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="![linkedin](https://user-images.githubusercontent.com/117347573/201921599-8386a20c-6b1c-4434-a0d6-ece24c49120c.png)
+"/></a>
   &#8287;&#8287;&#8287;
-  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="https://imgur.com/gallery/VFawCfA.png"/></a>
+  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="![gmail](https://user-images.githubusercontent.com/117347573/201921646-ee537e4f-8d4b-4cc5-87d7-e1de0249e433.png)
+"/></a>
   &#8287;&#8287;&#8287;
-  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src="https://imgur.com/gallery/PMPzW.png"></a>
-  
-   <a href="whatsapp to : 8197699433" alt ="Whatsapp" title="Whatsapp"><img width="30px" src="https://imgur.com/gallery/pk2dMhK.png" ></a>
-</p> </h2> 
+  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src="![spotify](https://user-images.githubusercontent.com/117347573/201921746-c98c97bd-57f4-43dd-b890-960c4b2e41d6.png)
+"></a>
 
 
 
