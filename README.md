@@ -7,13 +7,19 @@
 
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/skyemmanuelr/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/Ib5xlox.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/3FQOtZt.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="32px" alt="Spotify" title="Spotify" src="https://i.imgur.com/wSsVkMN.png"></a>
+  <a href="https://www.instagram.com/skyemmanuelr/"><img width="30px" alt="Instagram" title="Instagram" src="![undefined - Imgur (1)](https://user-images.githubusercontent.com/117347573/201919218-f0758566-05e4-4f4a-9a17-02862d9229c3.png)
+"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/akaash-rayipudi-518192256/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="![undefined - Imgur](https://user-images.githubusercontent.com/117347573/201919296-0e226cb4-cb6f-48a8-b51f-de3c1848f681.png)
+"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto: rayipudiemmanuel@gmail.com" alt="Mail" title="Mail"><img width="30px" src="![undefined - Imgur (4)](https://user-images.githubusercontent.com/117347573/201919447-046478af-336a-4bd3-a3a1-40bd1a7f4d66.png)
+"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://open.spotify.com/user/31hjww4cxhskqm6hycjc7edty5ay"><img width="30px" alt="Spotify" title="Spotify" src="![undefined - Imgur (3)](https://user-images.githubusercontent.com/117347573/201919506-9e080290-7513-4a9a-b77f-b53b071ac7d4.png)
+"></a>
+   <a href="whatsapp to : 8197699433" alt ="Whatsapp" title="Whatsapp"><img width="30px" src="![undefined - Imgur](https://user-images.githubusercontent.com/117347573/201919944-740b8650-4250-41db-930d-fcfa88b65894.jpg)
+" ></a>
 </p> </h2> 
 
 
