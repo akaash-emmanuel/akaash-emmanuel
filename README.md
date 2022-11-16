@@ -22,7 +22,7 @@
 
 
 
-I'm Akaash, a fresher at SNU and I have just begun my journey through the digital world. I have a lot to learn and a lot to be perfect at. My repositories contain codes for assignments and projects named according to language and level.
+I'm Akaash and I have just begun my journey through the digital world. I have a lot to learn and a lot to be perfect at. My repositories contain codes( or will have codes )for assignments and projects named according to language and level.
 
 ### 🧰 Languages and Tools
 
