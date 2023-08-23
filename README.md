@@ -1,3 +1,6 @@
+# Akaash Emmanuel
+
+
 ## 💫 About Me:
 I'm a computer science major learning and developing skills.<br><br>I’m currently working on my personal website<br>Looking for help with IOS/Android app development<br>I’m currently learning Java and JavaScript<br>email : <br>Also into gaming and video editing.
 
